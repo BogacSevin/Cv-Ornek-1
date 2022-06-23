@@ -23,43 +23,20 @@
   
   .title-name {
     background-color: #eee;
-    height: 100px;
+    height: 230px;
     width: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     float: bottom;
-    margin
   }
-  .title-namee {
-    height: 210px;
-    width: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 0 2em 0 8em;
-  }
-  
   .title-name h1 {
     font-family:'Lobster', cursive;
     font-size: 4em;
     letter-spacing: .02em;
   }
-  
   .title-name h3 {
-    color: #ff6c00;
-    letter-spacing: .05em;
-    margin-top: 0;
-  }
-  .title-namee h1 {
-    font-family:'Lobster', cursive;
-    font-size: 4em;
-    letter-spacing: .02em;
-  }
-  
-  .title-namee h3 {
     color: #ff6c00;
     letter-spacing: .05em;
     margin-top: 0;
